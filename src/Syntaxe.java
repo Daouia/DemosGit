@@ -3,7 +3,7 @@ public class Syntaxe {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(Maj("toTTToJJJJITITUITUIhnjhjhhrjghhgurhur"));
+		System.out.println(Maj("toTTToJJJJITITUITUIhnjhjhhrjghhgurhuraa"));
 
 		
 	}
